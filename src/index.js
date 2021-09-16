@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-const element = <h1>Hello World меня зовут: Анастасия!</h1>;
+const element = <h1>Hello World меня зовут: Анастасия Воробей!</h1>;
 
 ReactDOM.render(element, document.getElementById("root"));
